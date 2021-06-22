@@ -18,7 +18,7 @@
     <div id="srodkowy">
         <h2>GALERIA</h2>
         <?php
-       
+        
         $folder=@opendir('zdjecia'); 
         $nazwa=readdir($folder);  
         $nazwa=readdir($folder);  
