@@ -6,7 +6,6 @@ body{
     color: white;
     text-align: center;
     padding: 5px ;
-  
 }
 #stopka{
     background-color: rgb(205,92,92);
@@ -15,7 +14,6 @@ body{
     padding: 5px ;
     margin-top: -16px;
 }
-
 #lewy{
     background-color: rgb(250,235,215);
     width: 25%;
@@ -32,8 +30,7 @@ body{
     background-color: rgb(250,235,215);
     width: 50%; 
     height: 500px;
-    float: left;
-    
+    float: left;  
 }
 #dane{
     background-color: rgb(210,180,140);
@@ -41,7 +38,6 @@ body{
     clear: both;
 }   
 h2{
-  
      text-align: center;
 }
 h2::first-letter{
