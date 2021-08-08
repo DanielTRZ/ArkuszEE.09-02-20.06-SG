@@ -17,8 +17,8 @@
     </div>    
     <div id="srodkowy">
         <h2>GALERIA</h2>
-        <?php
         
+        <?php        
         $folder=@opendir('zdjecia'); 
         $nazwa=readdir($folder);  
         $nazwa=readdir($folder);  
@@ -26,6 +26,7 @@
             echo "<img src=\"zdjecia/$nazwa\" alt='galeria'> "; 
           }
         ?>
+        
     </div>
     <div id="prawy">
         <h2>PROMOCJE</h2>
