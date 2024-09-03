@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Wycieczki i urlopy</title>
-        <link rel="stylesheet" href="styl3.css">
+<link rel="stylesheet" href="styl3.css">
     </head>
     <body>
     <div id="banner">
