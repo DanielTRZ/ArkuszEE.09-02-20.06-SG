@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
-        <title>Wycieczki i urlopy</title>
+<title>Wycieczki i urlopy</title>
         <link rel="stylesheet" href="styl3.css">
     </head>
     <body>
