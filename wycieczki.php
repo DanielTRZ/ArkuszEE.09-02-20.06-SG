@@ -1,6 +1,6 @@
 <!DOCTYPE>
 <html lang="pl">
-    <head>
+<head>
         <meta charset="utf-8">
         <title>Wycieczki i urlopy</title>
         <link rel="stylesheet" href="styl3.css">
