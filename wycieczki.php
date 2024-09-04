@@ -5,7 +5,7 @@
 <title>Wycieczki i urlopy</title>
 <link rel="stylesheet" href="styl3.css">
 </head>
-    <body>
+<body>
     <div id="banner">
         <h1>BIURO PODRÓŻY</h1>
     </div>    
