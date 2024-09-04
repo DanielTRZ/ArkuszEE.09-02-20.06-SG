@@ -14,7 +14,7 @@
 <a href="mailto:biuro@wycieczki.pl">napisz do nas</a>
 <br><br>
 <a>telefon:555666777</a>
-    </div>    
+</div>    
     <div id="srodkowy">
         <h2>GALERIA</h2>
         
