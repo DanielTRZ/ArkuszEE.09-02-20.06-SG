@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="styl3.css">
 </head>
 <body>
-    <div id="banner">
+<div id="banner">
         <h1>BIURO PODRÓŻY</h1>
     </div>    
     <div id="lewy">
