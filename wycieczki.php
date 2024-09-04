@@ -12,7 +12,7 @@
 <div id="lewy">
 <h2>KONTAKT</h2>
 <a href="mailto:biuro@wycieczki.pl">napisz do nas</a>
-        <br><br>
+<br><br>
         <a>telefon:555666777</a>
     </div>    
     <div id="srodkowy">
