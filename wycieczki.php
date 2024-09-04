@@ -15,7 +15,7 @@
 <br><br>
 <a>telefon:555666777</a>
 </div>    
-    <div id="srodkowy">
+<div id="srodkowy">
         <h2>GALERIA</h2>
         
         <?php        
