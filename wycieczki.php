@@ -10,7 +10,7 @@
 <h1>BIURO PODRÓŻY</h1>
 </div>    
 <div id="lewy">
-        <h2>KONTAKT</h2>
+<h2>KONTAKT</h2>
         <a href="mailto:biuro@wycieczki.pl">napisz do nas</a>
         <br><br>
         <a>telefon:555666777</a>
