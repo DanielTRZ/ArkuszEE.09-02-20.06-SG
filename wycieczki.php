@@ -16,7 +16,7 @@
 <a>telefon:555666777</a>
 </div>    
 <div id="srodkowy">
-        <h2>GALERIA</h2>
+<h2>GALERIA</h2>
         
         <?php        
         $folder=@opendir('zdjecia'); 
