@@ -7,7 +7,7 @@
 </head>
 <body>
 <div id="banner">
-        <h1>BIURO PODRÓŻY</h1>
+<h1>BIURO PODRÓŻY</h1>
     </div>    
     <div id="lewy">
         <h2>KONTAKT</h2>
