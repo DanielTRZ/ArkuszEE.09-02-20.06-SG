@@ -19,7 +19,7 @@
 <h2>GALERIA</h2>
         
 <?php        
-        $folder=@opendir('zdjecia'); 
+$folder=@opendir('zdjecia'); 
         $nazwa=readdir($folder);  
         $nazwa=readdir($folder);  
          while($nazwa=readdir($folder) ){
