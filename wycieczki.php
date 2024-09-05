@@ -27,7 +27,7 @@ echo "<img src=\"zdjecia/$nazwa\" alt='galeria'> ";
 }
 ?>
         
-    </div>
+</div>
     <div id="prawy">
         <h2>PROMOCJE</h2>
         <table>
