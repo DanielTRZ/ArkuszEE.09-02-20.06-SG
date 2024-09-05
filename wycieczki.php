@@ -30,7 +30,7 @@ echo "<img src=\"zdjecia/$nazwa\" alt='galeria'> ";
 </div>
 <div id="prawy">
 <h2>PROMOCJE</h2>
-        <table>
+<table>
         <tr>
             <td>Jesień</td><td>Grupa 4+</td> <td>Grupa 10+</td>   
         </tr>
