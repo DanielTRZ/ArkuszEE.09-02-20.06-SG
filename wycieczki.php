@@ -24,7 +24,7 @@ $nazwa=readdir($folder);
 $nazwa=readdir($folder);  
 while($nazwa=readdir($folder) ){
 echo "<img src=\"zdjecia/$nazwa\" alt='galeria'> "; 
-          }
+}
         ?>
         
     </div>
