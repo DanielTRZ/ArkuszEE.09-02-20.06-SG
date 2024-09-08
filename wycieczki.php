@@ -40,7 +40,7 @@ echo "<img src=\"zdjecia/$nazwa\" alt='galeria'> ";
 </table>
 </div> 
 <div id="dane">
-        <h2>LISTA WYCIECZEK</h2>
+<h2>LISTA WYCIECZEK</h2>
         <?php
         $baza=mysqli_connect('localhost','root','','egzamin3');
         if(mysqli_connect_errno()){
