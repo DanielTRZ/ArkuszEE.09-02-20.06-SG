@@ -42,7 +42,7 @@ echo "<img src=\"zdjecia/$nazwa\" alt='galeria'> ";
 <div id="dane">
 <h2>LISTA WYCIECZEK</h2>
 <?php
-        $baza=mysqli_connect('localhost','root','','egzamin3');
+$baza=mysqli_connect('localhost','root','','egzamin3');
         if(mysqli_connect_errno()){
             echo"wystapił błąd połączenia z bazą";
         }
