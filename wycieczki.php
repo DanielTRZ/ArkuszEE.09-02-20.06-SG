@@ -39,7 +39,7 @@ echo "<img src=\"zdjecia/$nazwa\" alt='galeria'> ";
 </tr>
 </table>
 </div> 
-    <div id="dane">
+<div id="dane">
         <h2>LISTA WYCIECZEK</h2>
         <?php
         $baza=mysqli_connect('localhost','root','','egzamin3');
