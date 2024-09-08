@@ -47,7 +47,7 @@ if(mysqli_connect_errno()){
 echo"wystapił błąd połączenia z bazą";
 }
 $wynik=mysqli_query($baza,"SELECT `id`,`dataWyjazdu`,`cel` FROM `wycieczki` WHERE `dostepna`= 1");
-        while($row=mysqli_fetch_array($wynik)){
+while($row=mysqli_fetch_array($wynik)){
             echo "<ul>";
             echo $row['id'].". ".$row['dataWyjazdu']."".$row['cel'];"<br>";
             echo "</ul>";
