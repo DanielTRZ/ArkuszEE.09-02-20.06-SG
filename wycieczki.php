@@ -37,7 +37,7 @@ echo "<img src=\"zdjecia/$nazwa\" alt='galeria'> ";
 <tr>
 <td>5%</td><td>10%</td><td>15%</td>
 </tr>
-        </table>
+</table>
     </div> 
     <div id="dane">
         <h2>LISTA WYCIECZEK</h2>
