@@ -51,7 +51,7 @@ while($row=mysqli_fetch_array($wynik)){
 echo "<ul>";
 echo $row['id'].". ".$row['dataWyjazdu']."".$row['cel'];"<br>";
 echo "</ul>";
-        }
+}
         mysqli_close($baza);
         ?>
     </div>
