@@ -53,7 +53,7 @@ echo $row['id'].". ".$row['dataWyjazdu']."".$row['cel'];"<br>";
 echo "</ul>";
 }
 mysqli_close($baza);
-        ?>
+?>
     </div>
     <div id="stopka">
         <a>Stronę wykonał: Daniel</a>
