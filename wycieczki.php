@@ -52,7 +52,7 @@ echo "<ul>";
 echo $row['id'].". ".$row['dataWyjazdu']."".$row['cel'];"<br>";
 echo "</ul>";
 }
-        mysqli_close($baza);
+mysqli_close($baza);
         ?>
     </div>
     <div id="stopka">
