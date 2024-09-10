@@ -58,5 +58,5 @@ mysqli_close($baza);
 <div id="stopka">
 <a>Stronę wykonał: Daniel</a>
     </div>   
-    </body>
+</body>
 </html>
