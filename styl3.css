@@ -38,7 +38,7 @@ color: white;
 clear: both;
 }   
 h2{
-     text-align: center;
+text-align: center;
 }
 h2::first-letter{
     font-size: 150%;
