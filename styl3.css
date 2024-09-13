@@ -41,7 +41,7 @@ h2{
 text-align: center;
 }
 h2::first-letter{
-    font-size: 150%;
+font-size: 150%;
 }
 table{
  margin-left: 60px;
